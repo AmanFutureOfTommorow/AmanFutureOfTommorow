@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanFutureOfTommorow
-- 👀 I’m interested in Programig
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me "amansfuturetechnique@gmail.com
 
 <!---
